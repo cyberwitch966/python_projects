@@ -2,9 +2,9 @@
 
 This is a simple tool which defangs ips/subnets and urls:
 
-        E.g **192.168.1.1/21** turns into **192.168.1.1[/]** 
+        192.168.1.1/21 turns into 192.168.1.1[/]
    
-        **https://example/tests/stats.com** turns into **hxxp://example/tests/stats[.]com.** 
+        https://example/tests/stats.com turns into hxxp://example/tests/stats[.]com 
 
 The purpose of this tool is reduce the time when defanging malicious urls or ip addresses, saving valuable time. In addition, it allows for offline defanging, requiring little interaction from the user. 
 
