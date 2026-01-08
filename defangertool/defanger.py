@@ -20,6 +20,7 @@ elif start == "U":
     defanged_url = defanged_url.replace("ftp", "fxp")
     print(f"Normal: {url}")
     print(f"Defanged: {defanged_url}") 
-#defanged_url = ip.replace(".", "[.]") 
+
 else:
+
     print("Invalid choice, pick I/U: ")
