@@ -13,8 +13,11 @@ There are no dependencies or external libraries needed, just the latest version 
 How to use
 1. Download defanger.py
 2. Open your command prompt/shell and navigate to the directory you saved it
-3. Use the command: python3 defanger.py and run it (or the version of python you have installed e.g python defanger.py
-4. Enjoy!
+3. Use the command:
+   ```python
+    python3 defanger.py
+    and run it (or the version of python you have installed e.g python defanger.py}
+5. Enjoy!
 
 Use this tool responsibily and ethically please and thank you!
 If you have any feedback or questions feel free to let me know!
